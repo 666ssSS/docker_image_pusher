@@ -5,7 +5,7 @@ ubuntu:latest
 mysql:8.0.41-debian
 python:3.9.21-slim-bullseye
 node:slim
-tomcat:9.0.102-jdk8-corretto-al2
 sagikazarmark/dvwa:latest
 area39/pikachu:latest
 bkimminich/juice-shop:latest
+tomcat:9.0.104-jdk21-corretto
